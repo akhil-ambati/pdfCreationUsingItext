@@ -1,4 +1,4 @@
-class Data {
+public class Data {
     private String EntityType, EntityName;
     private double Quantity;
 
